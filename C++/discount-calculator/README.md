@@ -1,4 +1,4 @@
-# C++ Discount Calculator Program (Assignment 7)
+# C++ Discount Calculator Program
 
 ## 📌 Overview
 This C++ console program calculates the discounted price and final payment based on the user's total price input. It demonstrates business logic and multi-tier conditional statements (`if-else if`).
@@ -14,7 +14,7 @@ This C++ console program calculates the discounted price and final payment based
 
 ---
 
-# โปรแกรมคำนวณส่วนลดสินค้าด้วยภาษา C++ (ใบงานที่ 7)
+# โปรแกรมคำนวณส่วนลดสินค้าด้วยภาษา C++
 
 ## 📌 ภาพรวม (Overview)
 โปรแกรมคอนโซลภาษา C++ นี้ทำหน้าที่คำนวณส่วนลดและราคาสุทธิของสินค้าตามช่วงราคาที่ผู้ใช้ป้อนเข้ามา โดยแสดงให้เห็นถึงการประยุกต์ใช้ตรรกะเงื่อนไขหลายชั้น (`if-else if`) สำหรับคำนวณเงื่อนไขทางธุรกิจ
